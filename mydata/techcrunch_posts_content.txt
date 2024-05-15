@@ -1,4 +1,155 @@
 
+TechCrunch Disrupt, our flagship startup event held annually in San Francisco, is back on October 28-30 — and you can expect a bustling crowd of thousands of startup enthusiasts.
+Exciting news! We’re thrilled to unveil the near-complete agenda for the Builders Stage, the culmination of months of hard work. This is just one of six stages featured at this year’s event, with many more announcements on the horizon.
+P.S. The sale of early-bird tickets ends May 31. Book your pass today to save up to $800!
+About the Builders Stage
+The Builders Stage serves as a hub for dozens of panels and interviews dedicated to the essential elements of building and financing tech startups. This year, we’re doubling down on our commitment to providing top-tier programming featuring innovation across all stages of a startup’s journey. Expect deep dives into operations, talent acquisition, fundraising, and other crucial topics tailored for the new wave of startup pioneers. Plus, don’t miss sessions such as “How to Find, and Keep, Product-Market Fit,” “What You Need to Raise a Series A Today,” and “When to Cash Out, When to Keep Fighting.”
+
+
+
+
+
+
+First look at the Builders Stage agenda
+How the Chainsmokers Bring Value Beyond Their Celebrity Status
+While a lot of celebrities invest in startups, the Chainsmokers are different. Instead of angel investing, Drew Taggart and Alex Pall launched a formal fund, Mantis Venture Capital; invest out of a formal closed-end fund; and back companies in industries their celebrity prowess can’t always help in, like security startups and analytics platforms. In this session, Taggart and Pall will be joined by Dan Lorenc, the founder of Chainguard, to talk about how they are an asset to their B2B startups.
+
+Alex Pall, General Partner, Mantis VC
+Drew Taggart, General Partner, Mantis VC
+Dan Lorenc, Co-founder and CEO, Chainguard
+
+
+
+
+
+
+
+How to Find, and Keep, Product-Market Fit
+
+
+Every startup knows that they need to find product-market fit. But once they do find true resonance between what they are offering and what there is demand for, how should a startup ensure that they do not lose the product-market fit they have gained? Finding PMF is one thing; maintaining it is another.
+
+Spenser Skates, Co-founder and CEO, Amplitude
+Tamar Yehoshua, President of Product and Technology, Glean
+
+
+
+
+
+
+
+How to Build a Company While Protecting Your Mental Health
+Everyone knows that it is stressful to build a company. And it’s just as commonly known that endless chronic work can lead to burnout. So, why don’t we talk more about founder mental health? Now that our culture is more comfortable discussing mental health in general, it’s time we brought the topic to Disrupt for a thorough interrogation.
+
+Andy Dunn, Co-founder, Bonobos; CEO, Pie
+
+What You Need to Raise a Series A Today
+
+
+
+
+
+
+If you aren’t building the next foundation model AI company, raising a Series A today is likely harder than it has been in some time. So, to help founders building at the seed stage prepare for their first lettered round, we have investors explain what they — and their firms — are looking for in their next Series A deals.
+
+Renata Quintini, Co-founder and Managing Director, Renegade Partners
+Elizabeth Yin, General Partner, Hustle Fund
+
+When to Cash Out, When to Keep Fighting
+Startup founders are often presented with the chance to sell their companies before they reach full maturity. In today’s world with IPOs often delayed past historical norms, it may be tempting for founders to look for a parent company for their startups. But when does it make sense to sell, and when should a founder keep blazing their own path?
+
+
+
+
+
+
+
+Naveen Rao, VP Generative AI, Databricks
+
+How Startups Can Save the World
+Startup work and venture capital investing are usually judged through the lens of their financial results. The bigger a startup gets, the more it’s worth. But some upstart tech companies are also working on making the world better, while making money. So we want to know how far the “doing good” can go while not giving up on the critical “making money” side of building tech companies.
+
+Rebecca Hu, Co-founder, Glacier
+Allison Wolff, CEO, Vibrant Planet
+
+
+
+
+
+
+
+Don’t Be a Lemming: The Anti-hype Panel
+What’s the difference between true opportunity and hype? Answering that question correctly is the difference between success and failure in the tech industry. And it’s a far more difficult question than it might appear. When everyone is convinced a specific tech is the future, founders — and even VCs — tend to pursue that tech en mass. But as anyone who’s been through a Valley boom-and-bust cycle knows, collective excitement — hype — isn’t the best indicator.
+
+Matt Rogers, Co-founder, Nest; Co-founder and CEO, Mill
+Natalie Sportelli, Director, Bullish
+Hoolie Tejwani, Director, Corporate Development and Ventures, Coinbase Ventures
+
+The Next Multi-Billion Tech Companies
+
+
+
+
+
+
+You might think that when former Twitter CEO Dick Costolo, former Twitter COO Adam Bain and former Facebook chief revenue officer David Fischer joined forces for a venture capital firm, they would be focused on a next-generation internet. Or fixing social media. But you’d be wrong. They are seeking companies ready for a Series B round and helping them hyper-scale, without taking board seats.
+
+Adam Bain, Co-founder and Managing Partner, 01 Advisors
+Dick Costolo, Managing Partner & Co-Founder, 01 Advisors
+David Fischer, 01 Advisors
+
+Family Offices Want Startup Exposure, but What Are They Looking For?
+Family offices have gotten increasingly active in investing in startups both directly and through their VC investors. But what are they looking for? While no two family offices are the same, this session will dig into family office investing trends and where they have been spending time in the startup ecosystem. We’ll also dive into what kind of risk these investors are looking to take on and what makes a startup a good fit for this category of backer.
+
+
+
+
+
+
+Can Startups Reignite American Manufacturing?
+Not every startup is building mere software. A great number today are also building hardware, raising the question of where their gear will get designed and built. Some are choosing to invest in domestic manufacturing capability, often under the rubric of “American Dynamism.” This panel will dig into how far — and how fast — the reindustrialization of the United States may occur, and how we’ll pull it off.
+
+Rebecca Gevalt, Managing Partner, Dcode Capital
+Topher Haddad, Co-founder and CEO, Albedo
+Kai Kloepfer, Founder & CEO, Biofire
+
+Free but Not Cheap, the Open Source Dilemma
+
+
+
+
+
+
+Open source software is everywhere, and in everything. Many startups are pursuing explicitly open source business models. But every company out there that builds software has at least some dependency on open source code. Recent security issues, however, have made it plain that open source software is a target for state-level hackers. So, how can we keep building and using code that is built communally, but without the risk of backdoors and other security holes?
+
+Aeva Black, Open Source Security Lead, Cybersecurity and Infrastructure Security Agency (CISA)
+Luis VIlla, Co-founder and General Counsel, Tidelift
+
+How to Hire in 2025
+Gone are the days when recruiters seemed more plentiful than leaves in the wind; employees in nearly every startup function are therefore facing a more conservative labor market. How can founders capitalize on their increased labor buying power, while also treating their staff with respect and retaining key talent? Founders, take note, this one is for you.
+
+
+
+
+
+
+
+Heather Doshay, Partner, People & Talent, SignalFire
+Lauren Illovsky, Talent Partner, Capital G
+Roger Lee, CEO, Comprehensive.io
+
+How to Raise in 2025 if You’ve Taken a Flat, Down, or Extension Round
+Old ideas like you need $100 million worth of trailing revenue to go public, and $1 million worth of annual recurring revenue to raise a Series A are so old that they are practically perched atop Abe Lincoln’s head. In today’s market, what a startup needs to raise depends on its sector, founder profile, and, yes, momentum. So what do you need to raise that Series A?
+
+Nikhil Basu Trivedi, Co-founder and General Partner, Footwork
+Dayna Grayson, Co-founder and General Partner, Construct Capital
+Elliott Robinson, Partner, Bessemer Venture Partners
+
+
+Interested in partnership opportunities with TechCrunch? Reach out to the partnership team here.
+
+================================================================================
+
 Mike Krieger, one of the co-founders of Instagram and, more recently, the co-founder of personalized news app Artifact (which TechCrunch corporate parent Yahoo recently acquired), is joining Anthropic as the company’s first chief product officer.
 As CPO, Krieger will oversee Anthropic’s product engineering, management, and design efforts, Anthropic says, as the company works to expand its suite of AI apps and bring Claude, its generative AI technology, to a wider audience. In addition to consumer-focused projects like the recently released Claude app for mobile, Krieger also be responsible for Anthropic’s enterprise services, subscriptions and software.
 “I’ve long admired Anthropic’s relentless focus on building capable and trustworthy AI systems that empower humans and expand what’s possible with technology,” Krieger said in a statement. “I’m thrilled to join the exceptional team at Anthropic and partner with them to design and scale transformative products like Claude. The potential for AI to positively impact the world is immense, and I believe Anthropic has the talent, principles and technology to help realize that potential.”
@@ -18,7 +169,7 @@ Kriger’s hire comes days after Anthropic rival OpenAI demoed a more conversati
 ================================================================================
 
 
-Seven venture firms and organizations focused on diversity within tech have announced the Diversity Data Alliance, a commitment to standardizing the way that data is collected and shared.
+Seven venture capital and startup organizations focused on diversity within tech have announced the Diversity Data Alliance, a commitment to standardizing the way that data is collected and shared.
 Data transparency remains a pressing issue within venture for people looking to better track where and to whom money is allocated. Many firms already privately compile background information on their founders, but that data can be skewed when publicly shared without insight into how the data was collected. 
 The Alliance hopes to simplify this process by creating a framework that firms can use to gather information about founders and funders. It hopes to also work toward creating a centralized data pool to better track and understand funding trends in the industry. This is especially important for marginalized founders, who still receive little to no venture funding. 
 
@@ -29,7 +180,7 @@ The Alliance hopes to simplify this process by creating a framework that firms c
 
 The Alliance told TechCrunch that it hopes to look at this data to find ways that could help increase capital allocation to underrepresented founders, with the intention of releasing a report with centralized data. It is building out privacy and security measures, in addition to fundraising for a database that can store this information.
 
-The firms and organizations that have signed on to the Diversity Data Alliance so far include All Raise, Diversity BC, BLCK VC and Somos VC, though more can join. The group started working on the standardization process last fall and started implementing it this spring. 
+The organizations that have signed on to the Diversity Data Alliance so far include All Raise, Diversity BC, BLCK VC and Somos VC, though more can join. The group started working on the standardization process last fall and started implementing it this spring. 
 “Each of us has tried to do this on a small scale and with extremely limited resources,” said Sarah Millar, COO Of Diversity VC and a founding member of the Diversity Data Alliance. “By pooling our efforts for data collection and analysis on this specific piece, we can spend more time on the programming and projects that demonstrably move the needle for our communities.”
 
 
@@ -42,8 +193,15 @@ The firms and organizations that have signed on to the Diversity Data Alliance s
 The standard data collection process will ensure that all firms are using the same optional contact intake form for all founders. This means asking the same five questions about basic information, such as knowing a founder’s name, preferred pronouns, email, location and LinkedIn link. Firms will also ask the same questions about race, asking founders to check what they identify as and asking them to simply select their date of birth. It will ask a founder what gender they identify with, sexual orientation, education, disability status and military affiliation. 
 Until now, firms have been asking similar but quite different questions. For example, some firms did not ask questions about disability status at all, and others used more in-depth language about race or gender than others, like asking whether a founder was Middle Eastern, while others did not have the option for founders to check off at all. 
 Diversity Data Alliance is the latest effort within venture to push for more data transparency. Next year, California is set to implement a law requiring firms operating in the state to report a demographic breakdown of the founders in whom they invest, aiming to better understand the haves and the have-nots in the funding world. The Alliance said it is in contact with the legislators working on the California bill and hopes to share learnings as both rollouts continue. 
+
+
+
+
+
+
 The Alliance hopes that other firms and organizations will sign on to join the data collective.
 “We cannot change what we don’t measure,” Paige Hendrix-Buckner, CEO of All Raise, told TechCrunch. “By uniformly collecting demographics data, we can more deeply understand the landscape of the venture and startups ecosystem to ultimately drive more transparency and powerful storytelling about the characteristics of thriving venture capitalists and up-and-coming stars in our industry.”
+This story was updated to reflect that the firms were non-profits and organizations. 
 
 ================================================================================
 
@@ -310,41 +468,5 @@ Backing tech founders early has been key to Shilling’s growth as a firm. In 20
 Shilling was founded in 2011 by Pereira, a real estate investor and proptech founder; António Casanova, CEO of Unilever FIMA; Diogo da Silveira, chair & NED in listed and fund-backed European companies; João Coelho Borges, a top PE investor and founding partner at Draycott; and executives Juan Alvarez and Pedro Rutkowski. 
 Later, the team was joined by entrepreneurs and founders including Miguel Santo Amaro (co-founder of Uniplaces and Coverflex), Ricardo Jacinto, Pedro Ramalho Carlos, and Maria Villas-Boas.
 Shilling isn’t the only Portuguese venture firm to scale up in recent years. In 2022, Lisbon-based venture firm, Indico Capital Partners, launched a €50 million climate tech fund, dubbed the Indico Blue Fund. Other leading VC firms in the country include Faber, Armilar Venture Partners, Tocha and Portugal Ventures.
-
-================================================================================
-
-Chang She, previously the VP of engineering at Tubi and a Cloudera veteran, has years of experience building data tooling and infrastructure. But when She began working in the AI space, he quickly ran into problems with traditional data infrastructure — problems that prevented him from bringing AI models into production.
-“Machine learning engineers and AI researchers are often stuck with a subpar development experience,” She told TechCrunch in an interview. “Data infra companies don’t really understand the problem for machine learning data at a fundamental level.”
-So Chang — who’s one of the co-creators of Pandas, the wildly popular Python data science library — teamed up with software engineer Lei Xu to co-launch LanceDB.
-
-
-
-
-
-
-LanceDB is building the eponymous open source database software LanceDB, which is designed to support multimodal AI models — models that train on and generate images, videos and more in addition to text. Backed by Y Combinator, LanceDB this month raised $8 million in a seed funding round led by CRV, Essence VC and Swift Ventures, bringing its total raised to $11 million.
-“If multimodal AI is critical to the future success of your company, you want your very expensive AI team to focus on the model and bridging the AI with business value,” Chang said. “Unfortunately, today, AI teams are spending most of their time dealing with low-level data infrastructure details. LanceDB provides the foundation AI teams need so they can be free to focus on what really matters for enterprise value and bring AI products to market much faster than otherwise possible.”
-LanceDB is essentially a vector database — a database containing series of numbers (“vectors”) that encode the meaning of unstructured data (e.g. images, text and so on).
-As my colleague Paul Sawers recently wrote, vector databases are having a moment as the AI hype cycle peaks. That’s because they’re useful for all manner of AI applications, from content recommendations in ecommerce and social media platforms to reducing hallucinations.
-
-
-
-
-
-
-
-
-The vector database competition is fierce — see Qdrant, Vespa, Weaviate, Pinecone and Chroma to name a few vendors (not counting the Big Tech incumbents). So what makes LanceDB unique? Better flexibility, performance and scalability, according to Chang.
-For one, Chang says, LanceDB — which is built on top of Apache Arrow — is powered by a custom data format, Lance Format, that’s optimized for multimodal AI training and analytics. Lance Format enables LanceDB to handle up to billions of vectors and petabytes of text, images and videos, and to allow engineers to manage various forms of metadata associated with that data.
-“Until now, there’s never been a system that can unite training, exploration, search and large-scale data processing,” Chang said. “Lance Format allows AI researchers and engineers to have a single source of truth and get lightning-fast performance across their entire AI pipeline. It’s not just about storing vectors.”
-
-
-
-
-
-
-LanceDB makes money by selling fully managed versions of its open source software with added features such as hardware acceleration and governance controls — and business appears to be going strong. The company’s customer list includes text-to-image platform Midjourney, chatbot unicorn Character.ai, autonomous car startup WeRide and Airtable.
-Chang insisted that LanceDB’s recent VC backing wouldn’t shift its attention away from the open source project, though, which he says is now seeing around 600,000 downloads per month.
-“We wanted to create something that would make it 10x easier for AI teams working with large-scale multimodal data,” he said. “LanceDB offers — and will continue to offer — a very rich set of ecosystem integrations to minimize adoption effort.”
 
 ================================================================================
