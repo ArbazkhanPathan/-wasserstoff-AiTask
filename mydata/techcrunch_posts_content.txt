@@ -1,0 +1,350 @@
+
+Mike Krieger, one of the co-founders of Instagram and, more recently, the co-founder of personalized news app Artifact (which TechCrunch corporate parent Yahoo recently acquired), is joining Anthropic as the company’s first chief product officer.
+As CPO, Krieger will oversee Anthropic’s product engineering, management, and design efforts, Anthropic says, as the company works to expand its suite of AI apps and bring Claude, its generative AI technology, to a wider audience. In addition to consumer-focused projects like the recently released Claude app for mobile, Krieger also be responsible for Anthropic’s enterprise services, subscriptions and software.
+“I’ve long admired Anthropic’s relentless focus on building capable and trustworthy AI systems that empower humans and expand what’s possible with technology,” Krieger said in a statement. “I’m thrilled to join the exceptional team at Anthropic and partner with them to design and scale transformative products like Claude. The potential for AI to positively impact the world is immense, and I believe Anthropic has the talent, principles and technology to help realize that potential.”
+Anthropic CEO Dario Amodei added: “Mike is a world-class engineer, builder and leader. His background in developing intuitive products and user experiences will be invaluable as we create new ways for people to interact with Claude, particularly in the workplace. We feel fortunate to add Mike’s vision and expertise to our leadership team.”
+
+
+
+
+
+
+Krieger — along with Kevin Systrom, Instagram’s other co-founder — left Instagram in 2018 several years after Meta (then Facebook) acquired the social media platform for $1 billion. He and Systrom teamed up to launch Artifact in January 2023 with the goal of developing recommender systems to aggregate and suggest news articles, topics and authors and allow the wider community to like and comment on that content.
+Artifact initially announced that it would wind down operations in early 2024 but, in April, was snapped up by Yahoo! for an undisclosed amount. Krieger worked alongside Systrom in an “advisory capacity” after the acquisition; that work’s at an end, it seems.
+Kriger’s hire comes days after Anthropic rival OpenAI demoed a more conversational, polished experience for ChatGPT, its AI-powered chatbot platform, and after Google previewed major upgrades to its Gemini chatbot tech at the tech giant’s I/O developer conference. Anthropic, it seems, is keen to go aggressively after the consumer market too — and believes Krieger is the right person to get it there.
+
+
+
+================================================================================
+
+
+Seven venture firms and organizations focused on diversity within tech have announced the Diversity Data Alliance, a commitment to standardizing the way that data is collected and shared.
+Data transparency remains a pressing issue within venture for people looking to better track where and to whom money is allocated. Many firms already privately compile background information on their founders, but that data can be skewed when publicly shared without insight into how the data was collected. 
+The Alliance hopes to simplify this process by creating a framework that firms can use to gather information about founders and funders. It hopes to also work toward creating a centralized data pool to better track and understand funding trends in the industry. This is especially important for marginalized founders, who still receive little to no venture funding. 
+
+
+
+
+
+
+The Alliance told TechCrunch that it hopes to look at this data to find ways that could help increase capital allocation to underrepresented founders, with the intention of releasing a report with centralized data. It is building out privacy and security measures, in addition to fundraising for a database that can store this information.
+
+The firms and organizations that have signed on to the Diversity Data Alliance so far include All Raise, Diversity BC, BLCK VC and Somos VC, though more can join. The group started working on the standardization process last fall and started implementing it this spring. 
+“Each of us has tried to do this on a small scale and with extremely limited resources,” said Sarah Millar, COO Of Diversity VC and a founding member of the Diversity Data Alliance. “By pooling our efforts for data collection and analysis on this specific piece, we can spend more time on the programming and projects that demonstrably move the needle for our communities.”
+
+
+
+
+
+
+
+
+The standard data collection process will ensure that all firms are using the same optional contact intake form for all founders. This means asking the same five questions about basic information, such as knowing a founder’s name, preferred pronouns, email, location and LinkedIn link. Firms will also ask the same questions about race, asking founders to check what they identify as and asking them to simply select their date of birth. It will ask a founder what gender they identify with, sexual orientation, education, disability status and military affiliation. 
+Until now, firms have been asking similar but quite different questions. For example, some firms did not ask questions about disability status at all, and others used more in-depth language about race or gender than others, like asking whether a founder was Middle Eastern, while others did not have the option for founders to check off at all. 
+Diversity Data Alliance is the latest effort within venture to push for more data transparency. Next year, California is set to implement a law requiring firms operating in the state to report a demographic breakdown of the founders in whom they invest, aiming to better understand the haves and the have-nots in the funding world. The Alliance said it is in contact with the legislators working on the California bill and hopes to share learnings as both rollouts continue. 
+The Alliance hopes that other firms and organizations will sign on to join the data collective.
+“We cannot change what we don’t measure,” Paige Hendrix-Buckner, CEO of All Raise, told TechCrunch. “By uniformly collecting demographics data, we can more deeply understand the landscape of the venture and startups ecosystem to ultimately drive more transparency and powerful storytelling about the characteristics of thriving venture capitalists and up-and-coming stars in our industry.”
+
+================================================================================
+
+As cloud adoption continues to surge towards the $1 trillion mark in annual spend, we’re seeing a wave of enterprise startups gaining traction with customers and investors for tools to help manage that usage. In the latest development, a startup called Alkira has raised $100 million for “network infrastructure as a service”, which lets users virtualize and orchestrate hybrid cloud assets to manage them as a whole. 
+Tiger Global Management, a new backer of the startup, is leading this Series C, with other new backers NextEquity Partners and Geodesic Capital and previous backers Dallas Venture Capital, Sequoia Capital, Kleiner Perkins and KDT (Koch Disruptive Technologies) also participating. 
+Alkira’s CEO Amir Khan is not disclosing the startup’s valuation except to say that it’s “certainly an upround.” PitchBook estimates that Alkira was last valued at $234 million, although that dates from a funding round back in 2020 and the company has grown since then. Its customers come from a range of verticals like industry (strategic backer Koch), financial services (S&P) and media (Warner Music), and the company has raised $176 million to date. 
+The crux of what Alkira is addressing is one of the thornier aspects of the cloud revolution. To hedge their bets, get the most competitive pricing by region and to lean into the most flexible arrangements, customers are typically taking a hybrid approach when it comes to cloud networking, using multiple vendors and in many cases running private, public and on-premises servers all in tandem depending on their needs. 
+
+
+
+
+
+
+The problem with that, though, is that buying, implementing and ultimately managing that plate of spaghetti can prove to be an indigestible nightmare. The spike in popularity of AI-based applications – which might require even more compute and other resources – is certainly exacerbating this issue, but it’s one that has persisted for years and will continue to, regardless of whether AI is here to stay or not. 
+As Khan described it to me, Alkira’s unique approach is based on the idea that while end users negotiate and manage their own compute deals, the architecting of those deals is then handed over to Alkira, which essentially integrates them behind the scenes so that they can be managed and viewed as a single service, a kind of orchestration and virtualization of an organization’s infrastructure on a grand scale. (Alkira can support integration with all major cloud providers, Khan told me.)
+It then offers users a range of services around that integrated, network-as-a-service experience: cloud backbone as a service (aimed at hypercalers and heavy activity); extranet as a service (end-to-end secure connectivity for customers and other third parties, created as and when it’s needed to interface with organization’s core network); cloud “insights” (visibility services for ops people to get a complete picture of the availability and usage of cloud network resources); and secure connectivity (aimed at enabling secure remove VPN access). 
+
+
+
+
+
+
+
+
+Khan claims that running a company’s network assets through Alkira can cut down years of integration and management work into hours. 
+One customer, he recalled, faced “a mess of day to operation troubleshooting, visibility, and routing controls. Everything was so tedious, and it took them two years to build that system… In our first meeting with them, sitting in a conference room with them in Reno, Nevada, we were able to replicate all that work in four hours.” 
+Out of that meeting, they won not just the business pitch, but an investor: the end user was Koch Industries.
+Khan co-founded Alkira with his brother Atif (the CTO), and together the two have years of experience working in the world of telecoms – a wonderful training ground, it turns out, for the incredible fragmentation of today’s cloud computing landscape. (“Alkira” is an Aboriginal word roughly meaning “bright, blue sky” – a reference to clearing up the darkness of today’s “clouds.”) 
+
+
+
+
+
+
+They previously founded another startup that was closer to that legacy networking space: Viptela, a specialist in software-defined wide area networking, was acquired by Cisco for $610 million in 2017. 
+This new turn into cloud computing puts Alkira up against whole different wave of would-be competitors, although for now the very biggest players, like AWS, Azure and Google are yet to make significant progress in working together, thereby leaving a very wide opening for third-party players to do the stitching and virtualizing for them. 
+It’s interesting to see Tiger Global leading this round. The firm continues to be a investment player although as you can see by this table (from PitchBook data), the firm’s activity has really dropped off a cliff in the last two years, making this deal all the more significant in that context. 
+The combination of a proven track record plus obvious market opportunity seemed to get Tiger over the line on this one.  “Increasing cloud and A.I. use is also increasing the complexity, velocity, and scale requirements of network infrastructure,” said Rohit Iragavarapu, and investor at Tiger Global, in a statement.  “We believe Alkira is well positioned to unlock the growing potential of this rapidly evolving space with its visionary approach, market traction, and cutting-edge technology.”
+
+================================================================================
+
+Nicholas Johnson founded a company because he lost a bet.
+Johnson was having dinner with some investors in Lyt, a road congestion management company he had co-founded. As the dinner conversation meandered, it settled on EV charging and how best to bring it to multi-family housing.
+Apartment dwellers who own EVs are often left with two less-than-ideal choices: public chargers or plugging their vehicles into regular 120-volt outlets, which adds about 3 to 5 miles of range per hour. Johnson, a Tesla alumnus, wasn’t intrigued by the problem, so one of the people at dinner gave him a proposition.
+“I got bet by one of our investors to drive to and from work, which was about 48 miles at the time, for six months charging my EV with nothing more than a Level 1 outlet,” Johnson told TechCrunch. “He said, ‘If you don’t need to plug in at a DC fast charger other than for weekend road trips, I win the bet and you have to build me a prototype.’ He won the bet, and I built him a prototype.”
+
+
+
+
+
+
+That prototype would form the basis of a new startup, Orange Charger, where Johnson is now CEO. The company, which has sells landlords a 240-volt smart outlet among other products, has raised a $6.5 million oversubscribed seed round, Orange Charger exclusively told TechCrunch. The round was led by Munich Re Ventures and Climactic with participation by Baukunst, Crow Holdings, Lincoln Property Ventures, and Space Cadet Ventures.
+Charging has long been the Achilles’ heel of electric vehicles, and few EV drivers are as well acquainted with it as apartment dwellers, many of whom aren’t guaranteed a place to charge at night. Today, a majority of EV charging is done at home, but most multi-family dwellings don’t have chargers or even outlets at every parking space. If EVs are going to reach mass adoption in the U.S., the 40 million people who live in multi-family housing will need a more convenient way to juice up.
+Plenty of startups have popped up to solve the problem, and most of them focus on selling and installing enough charging equipment to serve a percentage of tenants. Even then, it can be a pricey proposition, often running a few thousand dollars per stall. Landlords are hesitant to install unless there are enough tenants with EVs. “When you’re doing like 100 or 200 parking spots in a multifamily, you really don’t want 200 cables laying on a parking lot, especially when on day one maybe like 10 to 20 are going to be used,” Johnson said. But at the same time, tenants might hesitate to buy EVs without a convenient place to charge them. 
+
+
+
+
+
+
+
+
+Orange Charger thinks it has a better solution, and it’s betting that landlords will prefer it. Rather than install a swarm of Level 2 chargers, which provide enough electrons for several days of daily driving, Orange Charger is offering 240-volt outlets that are packed with smarts. EV owners can plug in the portable Level 2 charger that often comes with their vehicle and activate the outlet using an app. 
+Orange Charger’s Level 2 outlets supply less power than a commercial unit, but still enough to add about 150 miles of range overnight. The lower power draw means that electricians can run thinner gauge wire, which Johnson said costs about a third less. “That savings per foot adds up really fast.”
+The outlet design has been tested to withstand plugging in and out at least 10,000 times. “We didn’t want that experience everyone has had of plugging into an outlet in an airplane or a hotel and it just falls out.” Johnson said.
+Orange Charger sells Level 2-capable outlets for $750, not including installation, which Johnson said is the company’s “main product.” It also offers Level 1-capable outlets for $600 and a full-freight Level 2 charger for $2,000.
+
+
+
+
+
+
+Each of Orange Charger’s products has a circuit board inside that serves as a node on its mesh network, which can run over Wi-Fi or Bluetooth, and each outlet can still operate if the connection to the internet is broken, sending any session data to the cloud once connectivity is restored. “Imagine I can’t charge for five hours because somebody cut the wrong cable on our street,” Johnson said. “We wanted to make something that was robust.” So far, the company has been able to initiate over 99% of all attempted charging sessions, he added.
+
+Seven things every EV fast-charging network needs
+
+Orange Charger bills landlords based on energy usage instead of the number of outlets installed. So far, the company has installed about 2,000 units nationwide.
+“You have no downside to install 50 outlets day one,” Johnson said. “We only charge when the device is used.” It’s an approach that just might solve one vexing chicken-and-egg problem that drags on EV adoption.
+
+================================================================================
+
+Embedded finance is usually what we hear about when brands and non-financial businesses want to offer financial products or services — like banking, insurance, lending and payments — to provide a better user experience for customers.
+Layer is leaning into that better user experience, but with embedded accounting. Its customers are those, like Square or Toast, working with small and medium-sized businesses to offer accounting and bookkeeping features inside their own products. These larger companies would embed Layer’s tools into their platform for small businesses to use.
+Now, SMBs can now access bookkeeping and accounting tools inside the Square or Toast platforms they use to run their business. This is instead of using a separate accounting software, like Quickbooks, to manage their business finances. 
+
+
+
+
+
+
+Justin Meretab, a former product leader on Square’s Banking team, started San Francisco-based Layer in 2023 with Daniel O’Neel, a former engineering leader at Wealthfront. Their goal was to create a set of APIs that allows platform customers to pass data from their small business customers to Layer. Then Layer provides connections to external bank accounts and credit cards to pull in the data and flow that into Layer’s ledger and account system. This allows the small businesses to then build a complete picture of all their financial data.
+In a way, Layer is like Unit or Check, but for SMB accounting instead of banking and payroll. In fact, the company aims to completely replace legacy accounting and bookkeeping platforms like Quickbooks, Meretab told TechCrunch. 
+So did investors laugh them out of the room when they explained how they wanted to replace Quickbooks? Kind of.
+“Many investors we’ve spoken with have told us this is a lofty goal given how much Quickbooks currently dominates the SMB accounting market,” Meretab said. “However, they also agree with our core belief that there’s been a fundamental shift in how SMBs run their businesses that now makes it possible to disrupt Quickbooks’ moat.”
+
+
+
+
+
+
+
+
+The main accounting dashboard SMBs see when accessing Layer’s embedded accounting software within their existing SMB platforms. (Image credit: Layer)
+Meretab went on to explain that over the last few years, platforms like Square, Toast and Shopify, became the hubs where SMBs run their businesses. These platforms have built deep relationships with those customers, and as a result, increasingly help them manage all of their day to day operations. 
+Meretab was at Square for six years and heard from customers that they wanted to do their accounting directly within these platforms instead of in separate tools. He and O’Neel spoke to potential customers and learned it would be challenging to build that kind of embedded accounting feature internally, so they did it.
+
+
+
+
+
+
+Layer is not alone here. There are some companies doing embedded accounting for SMBs, like Hurdlr and Fiskl. However, Meretab said Layer differentiates itself by focusing on building comprehensive accounting products without making customers do a lot of work themselves, or without them even needing to understand how accounting works.
+The company has a small set of early customers, four in fact, who have launched their own SMB accounting products embedded within their platforms. Customers serve a wide range of SMB industries, from truck drivers to medical spas and collectively work with over 100,000 small businesses.“One surprise has been that many SMB users tell us our embedded accounting views are actually the first time they’ve ever seen a clear profit and loss view of their business,” Meretab said. “Many tried to use separate accounting software but found it too complicated or difficult to keep in sync with their main operational software.”
+Layer’s different approach has also attracted investors. Better Tomorrow Ventures led a $2.3 million pre-seed investment into the company and was joined by a group of executives at companies, including Square, Plaid, Unit and Check.
+The company plans to deploy the new funding into expanding its services to additional small business software platforms this year. It will also expand its team of four across engineering and business operations roles.
+“Over the course of this year, our goal is to grow customers significantly, like triple the number of customers, and scale revenue,” Meretab said.
+
+Embedded finance is having a moment
+
+
+================================================================================
+
+While an increasing number of companies are investing in AI, many are struggling to get AI-powered projects into production — much less delivering meaningful ROI.
+The challenges are many. But a commonly recurring one is data management. The data that companies need to train, run and fine-tune AI models is disorganized, siloed, and otherwise unoptimized. In a 2022 survey by Great Expectations, an open source data benchmarking platform, 77% of organizations said they were concerned about their data quality.
+Startups that promise to fix these data problems are raking in funding.
+
+
+
+
+
+
+On Wednesday, Weka, a platform for building data pipelines that handle a range of data sources, types, and sizes, announced that it raised $140 million in a two-part ($100 million and $40 million) Series E round led by Valor Equity Partners, with participation from Nvidia, Norwest Venture Partners, Micron Ventures, Qualcomm Ventures, Hitachi Ventures and others. The oversubscribed round values Weka at $1.6 billion post-money, double the company’s previous valuation.
+Weka CEO Liran Zvibel and Weka’s other co-founders, Maor Ben-Dayan and Omri Palmon, met while building the data storage startup XIV, which IBM acquired for $350 million in 2007. The trio stayed on with IBM for a number of years but eventually left to pursue other, independent ventures.
+The problem of managing data continued to gnaw at Zvibel, though, he says.
+“I was frustrated and disillusioned with seeing customers forced to use disparate, siloed data infrastructure solutions that were wasteful, costly and complex to deploy, manage and maintain,” he said. “The problem became especially apparent with the rise of cloud computing and the advent of high-performance computing, machine learning and the earliest AI workloads.”
+
+
+
+
+
+
+
+
+So in 2013, Zvibel recruited Ben-Dayan and Palmon to build a new set of data tools —  a set that might bring about a better approach to storing, managing and moving data.
+“We envisioned a platform powerful enough to support the performance demands of next-generation compute hardware and large-scale, data-intensive workloads in the demanding and distributed environments,” Zvibel. “To meet the needs of modern workloads, we knew it would need to be able to process tens of terabytes of data and be deployed anywhere.”
+Weka’s core offering is a parallel file system, a type of distributed file system that can spread and orchestrate data tasks (e.g. copying files) across multiple places (e.g. servers and workstations) at once. On top of this, Weka sells services and capabilities to support AI and machine learning, visual effects and high-performance compute workloads in environments spanning on-premises data centers, public clouds and hybrid clouds.
+
+
+
+
+
+
+Zvibel claims that one key advantage of Weka’s architecture is that it can speed up AI model training by reducing the amount of time it takes to copy data across storage locations. “A typical generative AI data pipeline includes multiple steps of copying data sets, which wastes vital training time,” he said. “Weka keeps model training hardware constantly fed with data so models can be trained quicker.”
+Weka competes with data platforms like DataDirect, Pure Storage, NetApp and Vast Data. Vast is among the more formidable of the bunch, having closed a $118 million Series E funding round in December 2023 that tripled the startup’s valuation to $9.1 billion.
+But Weka appears to be holding its own, with a customer base of over 300 brands including AI startup Stability AI, 11 of the Fortune 50, and several undisclosed domestic and foreign government agencies.
+Even with its relatively large headcount (~400 employees worldwide, with plans to grow that number 25% in the next year), Zvibel said that the Silicon Valley-based company now has a “line of sight” to cash flow positivity by December 2024.
+“The latest raise was calculated based on favorable market conditions and proactive investor interest, which enabled us to raise at extremely favorable and advantageous terms for Weka,” he added. “Our average burn rate is expected to be less than half a million per month before reaching that milestone. We’ve exceeded $100 million in annual recurring revenue and are maintaining a hyper-growth trajectory.”
+
+================================================================================
+
+PayHOA, a previously bootstrapped Kentucky-based startup that offers software for self-managed homeowner associations (HOAs), is an example of how real-world problems can translate into opportunity.
+It just raised a $27.5 million Series A round in an environment where nearly $30 million Series A rounds are no longer common.
+PayHOA founder and CEO Mike Bollinger has been putting his finance degree to good use. The entrepreneur started PayHOA in 2018 after selling two other companies — LegFi.com, a startup focused on fraternity and sorority financial management and File990.org, which catered to nonprofit tax compliance needs — to Togetherwork in 2018.
+Bollinger says experience working with volunteer-based organizations fueled his desire to create PayHOA.
+
+
+
+
+
+
+“While larger companies catered to professional property managers, self-managed HOAs struggled,” he told TechCrunch. “They were forced to cobble together solutions with unconnected tools or generic software not designed for their specific needs — some even came to us with shoe boxes of paper receipts.”
+PayHOA’s SaaS offering acts as a “central hub” for association board members, handling finances, maintenance requests and communication with their communities, Bolinger says.
+Notably, PayHOA says it is profitable (with positive EBITDA), which helps explain how it managed to land such a decent-sized Series A round in what remains a challenging fundraising environment, especially for non-AI startups. The 15-person startup notched year-over-over revenue growth of over 70%. It has more than 652,000 users, and makes money by charging a monthly subscription fee based on the number of units in the community. Prices start at $49 per month for HOAs with 25 units or less. Self-managed HOAs account for 30% to 40% of community associations, made up of 2.5 million volunteer board members.
+
+
+
+
+
+
+
+
+The decision to raise outside capital for the first time stemmed from PayHOA reaching a critical inflection point, according to Bollinger. 
+“We’d found product market fit and were growing at a rapid rate,” he told TechCrunch. “The additional capital and investor guidance will guide the business to the next level.”
+The new funds will mostly go toward product development and hiring. PayHOA has plans to grow its team by 40% across engineering, sales and support. Today, the company also announced a Payables module, which Bollinger said uses Optical Character Recognition (OCR) technology to automatically scan and extract data from invoices. PayHOA has processed more than $1.6 billion in invoices since 2018.
+Looking ahead, PayHOA doesn’t have plans to expand outside of community management, but Bollinger has noticed an increased number of property management companies signing up for the platform — opening up the company’s total addressable market. 
+“Many HOAs manage their communities themselves, and for too long, their needs haven’t been fully addressed,” Peter Fallon, a general partner at Elephant Ventures, the firm that led the round, said in a written statement. “PayHOA recognizes this gap and provides a comprehensive platform designed specifically for self-managed HOAs. This empowers them to access powerful tools typically reserved for larger communities.”
+
+================================================================================
+
+The U.S. restaurant industry is expected to pass $1 trillion in sales for the first time this year, despite wider economic pressures on consumers. Now Restaurant365, a startup building tech to manage those businesses, has raised a hot $175 million to capitalize on that growth. 
+The funding is being led by ICONIQ Growth, with KKR and L Catterton also participating, all existing backers of the company. Restaurant365 is not disclosing the valuation it received in the round, but Tony Smith, its co-founder and CEO, confirmed to TechCrunch that it is an up-round. 
+“We’re excited that [the business] continues to grow and that we have very supportive investors behind us,” he said. For context, last year, when the startup raised $135 million, it disclosed that it had passed a $1 billion valuation. 
+The startup is also not disclosing any new usage figures. Last year, we reported that its software was being used in 40,000 locations, and that is still the number it is sharing today. The company was reportedly set to generate revenue of $100 million in 2023, based on per-location pricing that starts from $469 per location per month.
+
+
+
+
+
+
+Based out of Irvine, California, Restaurant365 provides restaurants an all-in-one platform to manage their accounting, inventory and workforce, along with an analytics suite to help understand trends within the business — essentially everything except point of sale transactions. 
+Smith said the plan is to use the new money to continue expanding the startup’s suite of products, as well as its customer base following the acquisition of ExpandShare, a training platform for restaurants, in April. “We are also earmarking some funds for future acquisitions,” he added. 
+Although Restaurant365 is used by both independent restaurants and larger chains, Smith said another big focus will be building tools catering to “major hospitality brands.” 
+
+
+
+
+
+
+
+
+Unlike a lot of people who try to solve problems in industries they’re familiar with, Restaurant365’s founders have little to do with the world of food service. “By the time I graduated college, I’d had 12 jobs, [only] one of which was at a pizza restaurant. So I wouldn’t say my restaurant experience was robust,” Smith said. 
+Rather, he was a techie who saw an opportunity to address an obvious problem. “My first job out of college was in technology, and it was exciting to see the future that software could play in all types of businesses.” 
+He, along with John Moody (chief strategist) and Morgan Harris (chief community officer), founded the startup in 2011 to address a pretty sore problem for restaurateurs: They operate on very thin margins (one reason why so many restaurants eventually die), and they have to use a patchwork of software to get things done. 
+The co-founders may not have known much about restaurants early on, but they knew they had to graft that knowledge in to fix the problem. “We immediately surrounded ourselves with restaurant folks to fully understand the problems they were facing,” Smith said. He said that included some unlikely going-native market research.  
+
+
+
+
+
+
+“We’d go to restaurants and wait until they closed at night to talk with the manager, who must have been a little concerned we were stalking them,” he said. “I remember asking for a clipboard so I could count inventory with them, and they probably thought we were crazy, joining in their job for free. [But] it was shocking to learn how complex running a restaurant is — from the need to reduce food waste, control costs, and manage labor.”
+It did seem like a strong match, though. “The problems restaurants struggled to solve aligned perfectly with our skills, and when we looked at what was available on the market, we knew we could create a more complete solution to help restaurants thrive,” he said. “Restaurant people are so hardworking, and it’s a privilege to work with them and help solve those problems.”
+That said, Restaurant365’s market is quite crowded with everything from point solutions to all-in-one approaches. Bigger players include Toast, Lightspeed and Crunchtime (no relation to TechCrunch!). 
+Smith claims his startup is the only one bundling the functions that it does. Indeed, many of the other companies targeting the food service industry start with solutions for point of sale or workforce management, rather than the mix that Restaurant365 provides.
+
+
+
+
+
+
+“Our major differentiators are that we’re all-in-one and restaurant-specific,” he added.
+Will Griffith, a founding partner at investor ICONIQ Growth, said that the startup’s attack was the more attractive for how it brought together essential functions in a usable way. 
+“Restaurant365’s suite consolidates essential functions like accounting, inventory management, payroll, and employee scheduling into a unified system, “ he said in an emailed statement. “Whether enterprise brands are reducing spending or investing, they always need a seamless flow of information to quickly identify areas in need of improvement, be it in staffing or supply management, to consistently and dramatically reduce costs and improve profitability.”
+Still, there is a big opportunity to consolidate given the huge number of point-solution players in the market. 
+“When we started the company, we met countless restaurants struggling to get by with multiple disconnected systems that drove inefficiency and limited visibility,” Smith said. “We launched as a consolidated product, and we’re grateful that operators and the market at large validated that strategy in both trusting us with their business, and in demanding technology providers create more complete offerings.
+“While we’ve made a number of acquisitions, we also invest heavily in our product development and research teams, and will continue to do so. For us, the question isn’t whether to add more products organically or through acquisitions. The question is what will add the most value to our customers’ businesses. Then we go out and do it,” he added.
+
+================================================================================
+
+It seems like it was only yesterday (well, seven years ago!) that I was honing in on the rapid development of Portugal’s growing startup and investment scene. I updated my article in 2021, only to find an explosion of new companies and investors. 
+Today comes further proof that Portugal is stretching its wings as one of Europe’s freshest and hungriest tech ecosystems: Venture firm Shilling has launched a €50 million fund to support growth-stage startups in its own portfolio and also — crucially — to invest in startups everywhere else. 
+The VC arm of Portuguese private equity firm Draycott SCR, Shilling is best known for being an early-stage investor in startups like Talka, Unbabel, Bizay, Uniplaces, and Best Tables (acquired by TripAdvisor in 2015).
+Shilling’s newest fund, labeled “Opportunity Fund,” will give it extra firepower to support early-stage startups for longer, with investments of up to €5 million for Series A and beyond. According to the firm, over 90% of the fund target was raised at the first close, and the fund has already invested in Shilling portfolio company, Coverflex.
+
+
+
+
+
+
+Despite having a vibrant startup ecosystem, Portugal has one of the lowest VC investment-to-GDP ratios in Europe — five times lower than the European average, according to Atomico.
+This has created a gap in funding for growth-stage startups. Shilling’s Opportunity Fund will be a welcome bridge in that gap.
+“We want to be one of the players following our startups over their entire journey, hence this new fund,” Ricardo Jacinto, managing partner at Shilling, told me. “Obviously, we want to keep an eye on new opportunities. That’s the thesis of this fund. […] We don’t want to limit ourselves to only portfolio companies.”
+
+
+
+
+
+
+
+
+“As the market recovers from post-pandemic stabilization, our new fund will support growth-stage companies as they scale,” Hugo Gonçalves Pereira, a founding partner at Shilling, said in a statement. 
+Norberto Guimarães, co-founder and CEO at Talka, added, “Shilling is unavoidable in the Portuguese early-stage startup scene. They quickly supported Talka, plugging me into the community after my journey of 12 years in the Bay Area.”
+Backing tech founders early has been key to Shilling’s growth as a firm. In 2021, it launched a €55 million ($35.6 million) early-stage fund called Shilling Founders Fund that was backed by just over 35 successful tech founders, as well as European VC, Atomico.
+Shilling was founded in 2011 by Pereira, a real estate investor and proptech founder; António Casanova, CEO of Unilever FIMA; Diogo da Silveira, chair & NED in listed and fund-backed European companies; João Coelho Borges, a top PE investor and founding partner at Draycott; and executives Juan Alvarez and Pedro Rutkowski. 
+Later, the team was joined by entrepreneurs and founders including Miguel Santo Amaro (co-founder of Uniplaces and Coverflex), Ricardo Jacinto, Pedro Ramalho Carlos, and Maria Villas-Boas.
+Shilling isn’t the only Portuguese venture firm to scale up in recent years. In 2022, Lisbon-based venture firm, Indico Capital Partners, launched a €50 million climate tech fund, dubbed the Indico Blue Fund. Other leading VC firms in the country include Faber, Armilar Venture Partners, Tocha and Portugal Ventures.
+
+================================================================================
+
+Chang She, previously the VP of engineering at Tubi and a Cloudera veteran, has years of experience building data tooling and infrastructure. But when She began working in the AI space, he quickly ran into problems with traditional data infrastructure — problems that prevented him from bringing AI models into production.
+“Machine learning engineers and AI researchers are often stuck with a subpar development experience,” She told TechCrunch in an interview. “Data infra companies don’t really understand the problem for machine learning data at a fundamental level.”
+So Chang — who’s one of the co-creators of Pandas, the wildly popular Python data science library — teamed up with software engineer Lei Xu to co-launch LanceDB.
+
+
+
+
+
+
+LanceDB is building the eponymous open source database software LanceDB, which is designed to support multimodal AI models — models that train on and generate images, videos and more in addition to text. Backed by Y Combinator, LanceDB this month raised $8 million in a seed funding round led by CRV, Essence VC and Swift Ventures, bringing its total raised to $11 million.
+“If multimodal AI is critical to the future success of your company, you want your very expensive AI team to focus on the model and bridging the AI with business value,” Chang said. “Unfortunately, today, AI teams are spending most of their time dealing with low-level data infrastructure details. LanceDB provides the foundation AI teams need so they can be free to focus on what really matters for enterprise value and bring AI products to market much faster than otherwise possible.”
+LanceDB is essentially a vector database — a database containing series of numbers (“vectors”) that encode the meaning of unstructured data (e.g. images, text and so on).
+As my colleague Paul Sawers recently wrote, vector databases are having a moment as the AI hype cycle peaks. That’s because they’re useful for all manner of AI applications, from content recommendations in ecommerce and social media platforms to reducing hallucinations.
+
+
+
+
+
+
+
+
+The vector database competition is fierce — see Qdrant, Vespa, Weaviate, Pinecone and Chroma to name a few vendors (not counting the Big Tech incumbents). So what makes LanceDB unique? Better flexibility, performance and scalability, according to Chang.
+For one, Chang says, LanceDB — which is built on top of Apache Arrow — is powered by a custom data format, Lance Format, that’s optimized for multimodal AI training and analytics. Lance Format enables LanceDB to handle up to billions of vectors and petabytes of text, images and videos, and to allow engineers to manage various forms of metadata associated with that data.
+“Until now, there’s never been a system that can unite training, exploration, search and large-scale data processing,” Chang said. “Lance Format allows AI researchers and engineers to have a single source of truth and get lightning-fast performance across their entire AI pipeline. It’s not just about storing vectors.”
+
+
+
+
+
+
+LanceDB makes money by selling fully managed versions of its open source software with added features such as hardware acceleration and governance controls — and business appears to be going strong. The company’s customer list includes text-to-image platform Midjourney, chatbot unicorn Character.ai, autonomous car startup WeRide and Airtable.
+Chang insisted that LanceDB’s recent VC backing wouldn’t shift its attention away from the open source project, though, which he says is now seeing around 600,000 downloads per month.
+“We wanted to create something that would make it 10x easier for AI teams working with large-scale multimodal data,” he said. “LanceDB offers — and will continue to offer — a very rich set of ecosystem integrations to minimize adoption effort.”
+
+================================================================================
